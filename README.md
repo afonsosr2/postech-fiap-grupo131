@@ -109,6 +109,31 @@ Os resultados obtidos foram analisados sob a perspectiva de negócio, possibilit
 
 ---
 
+## 📈 Resultados e Contribuições
+
+### A análise permitiu:
+
+* Identificar variáveis com maior impacto sobre o NPS;
+* Evidenciar a influência de fatores logísticos e de atendimento na percepção do cliente;
+* Demonstrar o potencial de modelos preditivos na antecipação da satisfação;
+* Gerar insights aplicáveis à melhoria da experiência do consumidor.
+
+## 🧠 Tecnologias Utilizadas
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib / Seaborn
+* Scikit-learn
+* Google Colab
+
+## 📌 Considerações Finais
+
+O projeto evidencia a importância da integração entre análise exploratória, modelagem estatística e interpretação de resultados no contexto da Ciência de Dados aplicada.
+Mais do que prever o NPS, a abordagem adotada permite compreender os mecanismos subjacentes à experiência do cliente, contribuindo para uma atuação estratégica orientada por dados.
+
+---
+
 ## ▶️ Como Reproduzir os Resultados
 
 ### 1. Clonagem do Repositório
@@ -136,26 +161,3 @@ jupyter notebook
 
 Abrir o arquivo:
 Tech_Challenge_Final.ipynb
-
-📈 Resultados e Contribuições
-
-A análise permitiu:
-
-* Identificar variáveis com maior impacto sobre o NPS;
-* Evidenciar a influência de fatores logísticos e de atendimento na percepção do cliente;
-* Demonstrar o potencial de modelos preditivos na antecipação da satisfação;
-* Gerar insights aplicáveis à melhoria da experiência do consumidor.
-
-🧠 Tecnologias Utilizadas
-
-* Python
-* Pandas
-* NumPy
-* Matplotlib / Seaborn
-* Scikit-learn
-* Google Colab
-
-📌 Considerações Finais
-
-O projeto evidencia a importância da integração entre análise exploratória, modelagem estatística e interpretação de resultados no contexto da Ciência de Dados aplicada.
-Mais do que prever o NPS, a abordagem adotada permite compreender os mecanismos subjacentes à experiência do cliente, contribuindo para uma atuação estratégica orientada por dados.
