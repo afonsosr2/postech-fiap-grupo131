@@ -115,7 +115,7 @@ Os resultados obtidos foram analisados sob a perspectiva de negócio, possibilit
 
 1. [Colab Notebook no repositório](https://github.com/afonsosr2/postech-fiap-grupo131/blob/main/Challenge%2001/Tech_Challenge_Final.ipynb)
 2. [Slides com insights sobre as análises](https://github.com/afonsosr2/postech-fiap-grupo131/blob/main/Challenge%2001/docs/Slides.pdf)
-3. [Vídeo com a Apresentação](https://drive.google.com/file/d/1W6C_SFIJwbZex3X4cphaAD6WorhWYx_D/view?usp=sharing).
+3. [▶️ Vídeo com a Apresentação](https://drive.google.com/file/d/1W6C_SFIJwbZex3X4cphaAD6WorhWYx_D/view?usp=sharing).
 
 #### A análise permitiu:
 
