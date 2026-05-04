@@ -111,7 +111,12 @@ Os resultados obtidos foram analisados sob a perspectiva de negócio, possibilit
 
 ## 📈 Resultados e Contribuições
 
-### A análise permitiu:
+### Documentos para visualizar as análises e insights
+
+1. [Colab Notebook no repositório](https://github.com/afonsosr2/postech-fiap-grupo131/blob/main/Challenge%2001/Tech_Challenge_Final.ipynb)
+2. [Slides com insights sobre as análises](https://github.com/afonsosr2/postech-fiap-grupo131/blob/main/Challenge%2001/docs/Slides.pdf)
+
+#### A análise permitiu:
 
 * Identificar variáveis com maior impacto sobre o NPS;
 * Evidenciar a influência de fatores logísticos e de atendimento na percepção do cliente;
