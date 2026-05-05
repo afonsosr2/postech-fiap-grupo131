@@ -140,7 +140,7 @@ Mais do que prever o NPS, a abordagem adotada permite compreender os mecanismos 
 
 ---
 
-## ▶️ Como Reproduzir os Resultados
+## 🔁 Como Reproduzir os Resultados
 
 ### 1. Clonagem do Repositório
 
